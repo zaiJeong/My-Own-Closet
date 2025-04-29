@@ -11,7 +11,7 @@
 - **Clothing Registration**: Register items by category (Top, Bottom, Outer, Shoes), type, and color.
 - **Closet Overview**: View all your clothes by category or at once, with a count per category.
 - **Outfit Coordination**: Combine clothing pieces into outfits visually.
-- 🗑**Clothing Deletion**: Remove unwanted items from your closet easily.
+- **Clothing Deletion**: Remove unwanted items from your closet easily.
 
 ## 🛠️ Technology Stack
 
